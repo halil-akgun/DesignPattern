@@ -1,4 +1,4 @@
-package creationalDP.factoryDP;
+package CreationalDP.FactoryDP;
 
 public interface Shape {
 

@@ -1,4 +1,4 @@
-package creationalDP.factoryDP;
+package CreationalDP.FactoryDP;
 
 public class Square implements Shape{
     @Override
